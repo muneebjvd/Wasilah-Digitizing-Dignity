@@ -1,0 +1,5 @@
+
+('needy@yahoo.com', 'pass123', 'Beneficiary'),
+('imam@mosque.com', 'pass123', 'Guarantor');
+('donor@gmail.com', 'pass123', 'Donor'),
+('admin@wasilah.com', 'hashed_pass_123', 'Admin'),
